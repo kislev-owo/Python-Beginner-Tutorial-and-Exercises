@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a9231135-10c2-4647-8694-f24b4878cfc3.ws-us02.gitpod.io",
+    "address": "https://f8a5e532-6598-4006-9f9f-c28b22c41ed2.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -178,7 +178,7 @@
         {
             "slug": "11-Create-A-New-Function",
             "title": "11-Create-A-New-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-A-New-Function",
             "translations": [
                 "es",
@@ -189,7 +189,7 @@
         {
             "slug": "14-Rand-From-One-to-Six",
             "title": "14-Rand-From-One-to-Six",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Rand-From-One-to-Six",
             "translations": [
                 "es",
@@ -200,7 +200,7 @@
         {
             "slug": "15-Your-First-Loop",
             "title": "15-Your-First-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Your-First-Loop",
             "translations": [
                 "es",
@@ -211,7 +211,7 @@
         {
             "slug": "16-Create-A-For-Loop",
             "title": "16-Create-A-For-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Create-A-For-Loop",
             "translations": [
                 "es",
