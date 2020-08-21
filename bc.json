@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f8a5e532-6598-4006-9f9f-c28b22c41ed2.ws-us02.gitpod.io",
+    "address": "https://d38fcb46-4eae-4d04-9a98-1c7416eaa71c.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -222,7 +222,7 @@
         {
             "slug": "18-Random-Colors-Loop",
             "title": "18-Random-Colors-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Random-Colors-Loop",
             "translations": [
                 "es",
